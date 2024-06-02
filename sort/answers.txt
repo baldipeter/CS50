@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Big difference between O and omega (reversed and random are roughly the same time, sorted is much faster).
+
+sort2 uses: Merge sort
+
+How do you know?: Much faster than the other two.
+
+sort3 uses: Selection sort
+
+How do you know?: The time is correlating to the square of the sample size.
